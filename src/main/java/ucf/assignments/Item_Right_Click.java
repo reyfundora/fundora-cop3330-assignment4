@@ -9,6 +9,7 @@ public class Item_Right_Click {
     static void run_mark_no() {
 
     }
+
     static void run_rename() {
 
     }
@@ -16,6 +17,7 @@ public class Item_Right_Click {
     static void run_delete() {
 
     }
+
     static void run_redate() {
 
     }
