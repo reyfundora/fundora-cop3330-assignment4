@@ -1,9 +1,13 @@
 package ucf.assignments;
 
+import javafx.application.Application;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
+import javafx.stage.Stage;
 import javafx.event.ActionEvent;
 import javafx.scene.control.MenuItem;
 
-public class Main_Controller {
+public class App_Controller {
 
     public MenuItem File_Open, File_Save_Single, File_Save_All, File_Close, Edit_New_List, Edit_New_Item,
                     View_All, View_Completed, View_Incompleted, Help_Getting_Started, Help_About,
