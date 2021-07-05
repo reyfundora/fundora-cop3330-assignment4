@@ -3,7 +3,7 @@ package ucf.assignments;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 
-public class File {
+public class File_Open {
 
 
 }

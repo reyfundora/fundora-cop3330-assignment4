@@ -1,4 +1,4 @@
 package ucf.assignments;
 
-public class Right_Click {
+public class File_Close {
 }
